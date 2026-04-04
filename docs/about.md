@@ -9,7 +9,7 @@
 ## ✨ Who Am I
 
 Welcome to my world of data, automation, and innovation! 🚀
-I am a passionate **Python Web Scraping Expert** 🌟 with hands-on experience in extracting, automating, and transforming web data into actionable insights.
+I am a passionate **Python Web Scraping & Automation Expert** 🌟 with hands-on experience in extracting, automating, and transforming web data into actionable insights.
 
 ---
 
