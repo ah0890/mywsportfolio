@@ -1,6 +1,6 @@
-site_name: Aammar Tufail (Data Scientist, Machine Learning Engineer)
+site_name: Amjad Hassan (Python Data Scraping Exper)
 site_description: A collection of my projects
-site_author: Dr. Aammar Tufail
+site_author: Amjad Hassan
 
 theme:
   name: material
@@ -60,14 +60,12 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/aammartufail
+      link: https://github.com/ahaulakh0890
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/aammar-tufail
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/aammar_tufail
+      link: https://www.linkedin.com/in/ahaulakh/
 
 # Optional GitHub repo integration (uncomment when needed)
-# repo_url: https://github.com/aammartufail/portfolio
+# repo_url: https://github.com/ahaulakh0890/portfolio
 # repo_name: GitHub
 # edit_uri: edit/main/docs/
 
