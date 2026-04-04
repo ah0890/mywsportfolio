@@ -1,11 +1,10 @@
-# Welcome to the World of Data by **Aammar Tufail**
+# Welcome to the World of Data Scraping by **Amjad Hassan**
 
-For full list of projects and repositories visit: [My GitHub Profile](https://github.com/aammartufail).
+For full list of projects and repositories visit: [My GitHub Profile](https://github.com/ahaulakh0890).
 
 ## My Social Media Links
-- [LinkedIn](https://www.linkedin.com/in/aammar-tufail)
-- [X/Twitter](https://twitter.com/aammar_tufail)
-- [YouTube](https://www.youtube.com/@codanics)
+- [LinkedIn](https://www.linkedin.com/in/ahaulakh/)
+- [Facebook](https://www.facebook.com/motisol786)
 
 ## Project layout
 
