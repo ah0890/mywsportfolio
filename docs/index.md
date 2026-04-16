@@ -1,6 +1,6 @@
 # Welcome to the World of Data Scraping by **Amjad Hassan**
 
-For full list of projects and repositories visit: [My GitHub Profile](https://github.com/ahaulakh0890)
+For full list of projects and repositories visit: [My GitHub Profile](https://github.com/ah0890)
 
 ## My Featured Projects
 
