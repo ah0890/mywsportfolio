@@ -8,8 +8,9 @@
 
 ## ✨ Who Am I
 
-Welcome to my world of data, automation, and innovation! 🚀
-I am a passionate **Python Web Scraping & Automation Expert** 🌟 with hands-on experience in extracting, automating, and transforming web data into actionable insights.
+I am a passionate Python Developer & Data Engineer 🌟 specializing in Web Scraping, Data Extraction, and Automation. With hands-on experience in transforming raw web data into structured, actionable insights, I help businesses streamline processes and make data-driven decisions.
+
+My expertise extends to Data Engineering, Data Science, and Machine Learning, allowing me to not only collect data but also analyze and leverage it for meaningful outcomes. I’m always driven to build efficient, scalable, and innovative solutions.
 
 ---
 
