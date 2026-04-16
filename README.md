@@ -73,6 +73,6 @@ If you're looking for:
 * Automation of repetitive tasks
 * Clean and structured datasets
 
-👉 Let’s connect and turn the web into valuable data! 🌐✨
+👉 Let’s connect and turn the web into valuable data! 🌐✨\
 Email: Amjadhassan.engr@gmail.com
 
